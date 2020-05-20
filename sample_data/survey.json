@@ -11,12 +11,11 @@
     "increase_income": "1",
     "save_money": "1",
     "reduce_poverty": "0",
-    "marital_status?": "In a monogamous relationship/marriage",
-    "age_marriage": "16",
+    "marital_status?": "Single",
+    "age_marriage": "6",
     "_id": "52024457",
     "_uuid": "2d36278d-7b26-411d-b694-316fad2bfbad",
     "_submission_time": "2020-05-04T13:50:12",
-    "_validation_status": "",
     "_index": "1"
   }
 }

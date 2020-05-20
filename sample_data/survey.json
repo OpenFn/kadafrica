@@ -1,0 +1,22 @@
+{
+  "formId": "Demographic Survey",
+  "data": {
+    "start": "2020-05-04T11:04:17.234+03:00",
+    "end": "2020-05-04T14:21:55.412+03:00",
+    "KadAfrica Site": "Kyakaido",
+    "surname": "Krolls",
+    "first_name": "Aleksa",
+    "Girl ID": "KYAG-057",
+    "phone_number": "790970353",
+    "increase_income": "1",
+    "save_money": "1",
+    "reduce_poverty": "0",
+    "marital_status?": "In a monogamous relationship/marriage",
+    "age_marriage": "16",
+    "_id": "52024457",
+    "_uuid": "2d36278d-7b26-411d-b694-316fad2bfbad",
+    "_submission_time": "2020-05-04T13:50:12",
+    "_validation_status": "",
+    "_index": "1"
+  }
+}
